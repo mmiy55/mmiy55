@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miriam</h1>
-<h3 align="center">A passionate full stack developer from Italy</h3>
+<h3 align="center">I am a passionate backend developer who loves languages and solving puzzles. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">https://www.linkedin.com/in/miriamfiandanese/ </p>
